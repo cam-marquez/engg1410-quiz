@@ -3,6 +3,8 @@
 
 int main(void)
 {
+    printf("Hello World!\n"); // change made to code
+
     char val;
     printf("Enter 'y' and press enter if you know how to use Git!\n");
     scanf(" %c", &val);
